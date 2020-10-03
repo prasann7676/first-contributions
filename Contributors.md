@@ -5502,8 +5502,10 @@ Hirva  Shah
 - [Tim Gao](https://github.com/timegao)
 - [Vedant Satpute](https://github.com/vicinalv)
 - [Lav Senghani](https://github.com/lavlife06)
+- [Srishtik Dutta](https://github.com/Srishtik16)
 - [Devon Fazekas](https://github.com/FazekasDevon96)
 - [Pranav Sivvam](https://github.com/vulf)
 - [Yash Upadhyay](https://github.com/yashupadhyay101)
 - [Samuel Haiden](https://github.com/samhai11)
 - [Pratik Sharma](https://github.com/pratikshar181)
+- 
